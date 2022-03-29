@@ -1,0 +1,17 @@
+{
+  "name": "clipdownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MidnightWolf",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "download-file": "^0.1.5",
+    "fs": "^0.0.1-security"
+  }
+}
